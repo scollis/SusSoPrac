@@ -12,5 +12,6 @@ Attendees:
 |Dominick Pattermann| dpattermann@anl.gov| ? |
 |Matthew Johnson| b240122@anl.gov| Mac |
 |Jenna Schroeder|jschroeder@anl.gov|Mac |
-|Cheng Wang| wangcheng@anl.gov |? |
+|Cheng Wang| wangcheng@anl.gov |windows/nix |
 |Whitney Kratovil | wkratovil@anl.gov |? |
+|David LePoire |dlepoire@anl.gov| ?|
