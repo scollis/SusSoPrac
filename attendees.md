@@ -15,3 +15,7 @@ Attendees:
 |Cheng Wang| wangcheng@anl.gov |windows/nix |
 |Whitney Kratovil | wkratovil@anl.gov |? |
 |David LePoire |dlepoire@anl.gov| ?|
+|Samrat Saha | ssaha@anl.gov | ?|
+|Sydney Alonzo|  salonzo@anl.gov |?|
+|Rachel Burganowsk|  rburganowski@anl.gov|?|
+|Andrea Vetrone|  avetrone@anl.gov|?|
