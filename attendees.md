@@ -1,6 +1,6 @@
 Attendees:
 ====
-|   |   |   |
+|Name   | Email  |OS   |
 |---|---|---|
 |Edwin Campos |ecampos@anl.gov| Mac|
 |Michael Andruska|mandruska@anl.gov |  Mac|
@@ -19,3 +19,16 @@ Attendees:
 |Sydney Alonzo|  salonzo@anl.gov |?|
 |Rachel Burganowsk|  rburganowski@anl.gov|?|
 |Andrea Vetrone|  avetrone@anl.gov|?|
+|Georgios  Tziantzioulis |georgiostziantzioulis2011@u.northwestern.edu|?|
+|Brett Rhodes |br091455@scots.edinboro.edu|?|
+|Kaitlyn MacIntyre |kaitlynmacintyre2017@u.northwestern.edu|?|
+|Nikhat Karimi  |nikhatkarimi@gmail.com|?|
+|Rajesh Sankaran| r@anl.gov | everything|
+
+Instructors:
+====
+|Name   | Email  |OS   |
+|---|---|---|
+|Scott Collis |scollis@anl.gov| Mac/nix|
+|Jonathan Helmus |jhelmus@anl.gov| Mac/nix|
+|Mike Nowak|mnowak@anl.gov|Windows/nix|
