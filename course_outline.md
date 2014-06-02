@@ -41,10 +41,9 @@ Remote Users can connect in using Adobe Connect:
 
 http://anl.adobeconnect.com/sussoprac/
 
-Materials
----------------------
-Links to various things
 
 Resources
 ---------------------
-Links to other things
+Pep8 coding standards for Python http://legacy.python.org/dev/peps/pep-0008/
+
+How to submit a Pull Request https://help.github.com/articles/using-pull-requests
