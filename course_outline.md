@@ -16,12 +16,30 @@ Jonathan: Could you put instructions for windows?
 
 Course outline
 ---------------------
-Me!
+The course will have five parts:
+
+1) Introduction and why bother
+(hint: read this http://reproducibility.cs.arizona.edu/)
+*Scott Collis*
+
+2) Coding standards *Mike Nowak*
+
+3) Basic Git and GitHub *Scott Collis*
+
+4) Group exercise *You!*
+
+5) Intermediate version control: Branches. *Jonathan Helmus*
+
 
 Participation
 ---------------------
-Local instructions
-Adobe Connect instructions
+
+The course will be held in the Energy Sciences building (241)
+in room D172.
+
+Remote Users can connect in using Adobe Connect:
+
+http://anl.adobeconnect.com/sussoprac/
 
 Materials
 ---------------------
