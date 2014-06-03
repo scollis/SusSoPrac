@@ -27,7 +27,7 @@ the command from a shell or command prompt you are all set.
   type `git` which should return a long help message.  If you get a different
   result contact one of the course organizers before or at the beginning of
   the course for help setting up git.
-![Window Install Screen Shot](/images/win_git_screen.png]
+![Window Install Screen Shot](/images/win_git_screen.png)
 
 ## Mac OS X
 
