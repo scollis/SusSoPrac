@@ -1,4 +1,5 @@
-= Sustainable Software Practices =
+Sustainable Software Practices
+==============================
 
 A very short course on Sustainable Software Practices for Scientists who code
 
