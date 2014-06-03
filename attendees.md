@@ -25,6 +25,7 @@ Attendees:
 |Nikhat Karimi  |nikhatkarimi@gmail.com|?|
 |Rajesh Sankaran| r@anl.gov | everything|
 |Grant McKercher|gmckercher@anl.gov|?|
+|Beth Drewniak  |bbye@anl.gov|?|
 
 Instructors:
 ====
