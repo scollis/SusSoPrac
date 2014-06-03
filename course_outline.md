@@ -50,6 +50,5 @@ Resources
 * [Pro Git](http://git-scm.com/book)
 * [GitHub Guides](https://guides.github.com/)
 * [GitHub Help](https://help.github.com/)
-
 * [PEP8 -- Style Guide for Python Code](http://legacy.python.org/dev/peps/pep-0008/)
-* [Best Practices for Scientific Computing](http://arxiv.org/abs/1210.0530) 
+* [Best Practices for Scientific Computing](http://arxiv.org/abs/1210.0530)
