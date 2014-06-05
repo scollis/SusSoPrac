@@ -66,3 +66,4 @@ Resources
 * [GitHub Help](https://help.github.com/)
 * [PEP8 -- Style Guide for Python Code](http://legacy.python.org/dev/peps/pep-0008/)
 * [Best Practices for Scientific Computing](http://arxiv.org/abs/1210.0530)
+* [Software Carpentry -- Version control with Git ](http://software-carpentry.org/v5/novice/git/index.html)
