@@ -38,9 +38,23 @@ Participation
 The course will be held in the Energy Sciences building (241)
 in room D172 from 1 pm to 4 pm on Thursday June 5th, 2014.
 
-Remote Users can connect in using Adobe Connect:
+Remote Users can connect in using Blue Jeans:
+To join or start the meeting, go to:
 
-http://anl.adobeconnect.com/sussoprac/
+https://bluejeans.com/532302412?g=onrw63dmnfzua3ldomxgc3tmfztw65q=
+
+Connecting directly from a room system?
+
+1) Dial: 199.48.152.152 or bjn.vc
+
+2) Enter Meeting ID: 532302412
+
+-or- use the pairing code Just want to dial in?
+
+1) Dial-in: +1 408 740 7256 or +1 888 240 2560 (US or Canada only) (http://bluejeans.com/numbers)
+
+ 2) Enter Meeting ID: 532302412
+
 
 
 Resources
